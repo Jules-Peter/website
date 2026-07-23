@@ -1,0 +1,43 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Jules Peter"
+  description: "Personal website of Jules Peter — Global Health Engineering, ETH Zürich."
+  site-url: "https://jules-peter.github.io/website/"
+  navbar:
+    pinned: true
+    left:
+      - text: About
+        href: index.qmd
+      - text: Research
+        href: research.qmd
+      - text: Software & Data
+        href: software.qmd
+      - text: Teaching
+        href: teaching.qmd
+      - text: Media
+        href: media.qmd
+      - text: CV
+        href: cv.qmd
+      - text: Blog
+        href: blog.qmd
+    right:
+      - icon: envelope
+        href: mailto:jupeter@ethz.ch
+        aria-label: Email
+      - icon: github
+        href: https://github.com/Jules-Peter
+        aria-label: GitHub
+  page-footer:
+    center: "© 2026 Jules Peter · Built with [Quarto](https://quarto.org)"
+
+format:
+  html:
+    theme:
+      light: cosmo
+      dark: darkly
+    css: styles.css
+    toc: true
+    toc-title: "On this page"

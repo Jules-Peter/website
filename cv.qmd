@@ -1,0 +1,58 @@
+---
+title: "Curriculum Vitae"
+toc: true
+---
+
+<!-- You can also link a downloadable PDF version: [Download PDF](cv.pdf) -->
+
+## Current position
+
+**PhD Candidate — Global Health Engineering**, ETH Zürich
+: 2024 – present · Department of Mechanical and Process Engineering (D-MAVT) ·
+  Group of Prof. Elizabeth Tilley. Research on mycosanitation: filamentous fungi
+  for pathogen reduction and resource recovery in sanitation.
+
+## Education
+
+**MSc Biology (Microbiology)**, ETH Zürich (D-BIOL)
+: 2017 – 2019 · Focus on mycology and biocontrol.
+
+**BSc Biology**, ETH Zürich (D-BIOL)
+: 2014 – 2018
+
+## Professional experience
+
+**Scientific-technical staff — Extension Arable Crops**, Agroscope
+: 2021 – 2024 · Swiss Federal Agricultural Research Station. Optimising
+  mycopesticide production; managing pests and plant pathogens in fruit and
+  arable crops.
+
+**Intern — Fruit-Production Extension**, Agroscope
+: 2020
+
+## Publications
+
+<!-- Add author lists as they appear in the papers. Full list on
+https://orcid.org/0000-0002-1966-1197 -->
+
+- (2023). *Natural variation in Avr3D1 from Zymoseptoria sp. contributes to
+  quantitative gene-for-gene resistance and to host specificity.*
+  New Phytologist. [doi:10.1111/nph.18690](https://doi.org/10.1111/nph.18690)
+- (2020). *Chromatin dynamics contribute to the spatiotemporal expression
+  pattern of virulence genes in a fungal plant pathogen.* mBio.
+  [doi:10.1128/mBio.02343-20](https://doi.org/10.1128/mBio.02343-20)
+
+## Skills
+
+- **Languages:** German, English
+- **Methods:** mycology & fungal cultivation, biocontrol / mycopesticide
+  production, microscopy, experimental design, laboratory & fieldwork
+- **Tools:** R, Quarto, Git/GitHub
+
+## Contact
+
+- Email: [jupeter@ethz.ch](mailto:jupeter@ethz.ch)
+- ORCID: [0000-0002-1966-1197](https://orcid.org/0000-0002-1966-1197)
+- GitHub: [Jules-Peter](https://github.com/Jules-Peter)
+- Global Health Engineering, ETH Zürich · Clausiusstrasse 37, CLD D 10.1, 8092 Zürich
+- [GHE profile](https://ghe.ethz.ch/about/people/person-detail.MjA3Nzg5.TGlzdC80MTI2LC0xNDYwMDMwNTU3.html)

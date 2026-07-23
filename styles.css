@@ -1,0 +1,16 @@
+/* Custom styles for Jules Peter's website */
+
+.navbar-title {
+  font-weight: 600;
+}
+
+/* Slightly roomier body text */
+body {
+  font-size: 1.02rem;
+  line-height: 1.6;
+}
+
+/* Constrain the about-page image size */
+.about-image {
+  max-width: 320px;
+}

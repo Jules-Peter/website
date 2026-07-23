@@ -1,0 +1,32 @@
+---
+title: "Teaching"
+toc: true
+---
+
+<!-- Placeholder content — please review and edit. -->
+
+I teach and supervise on topics around environmental biotechnology, sanitation,
+and reproducible research with R and Quarto.
+
+## Courses
+
+<!-- Add courses here, e.g.:
+- **Course title** — role (e.g. teaching assistant), institution, term/year.
+  Short description.
+-->
+
+*Coming soon.*
+
+## Supervision
+
+<!-- Add supervised theses / projects here, e.g.:
+- **Student name** (Year). *Thesis title.* MSc/BSc thesis, ETH Zürich.
+-->
+
+*Coming soon.*
+
+## Workshops & materials
+
+<!-- Link teaching materials, slides, or repositories here. -->
+
+*Coming soon.*

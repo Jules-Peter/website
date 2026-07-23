@@ -1,0 +1,48 @@
+---
+title: "Research"
+toc: true
+---
+
+## Overview
+
+My PhD research explores **mycosanitation** — using filamentous fungi to make
+sanitation safer and more circular. I investigate how fungi can reduce pathogens
+in faecal sludge and transform waste materials into valuable resources, an
+emerging and largely unexplored field at the interface of mycology and global
+health engineering.
+
+Before my PhD I worked on fungi from a different angle: biocontrol and
+mycopesticides in agriculture at Agroscope, and the molecular biology of fungal
+plant pathogens during my studies at ETH Zürich.
+
+## Research interests
+
+- **Mycosanitation** — filamentous fungi for treating faecal sludge and reducing
+  pathogens
+- **Waste-to-resource** — transforming waste materials into valuable products
+  through fungal processes
+- **Fungal biocontrol & mycopesticides** — optimising fungi for pest and
+  pathogen management
+- **Fungal plant pathogens** — regulation and evolution of virulence
+- **Pathogen viability methods** — helminth-egg (*Ascaris*) viability assays and
+  microscopy tooling
+
+## Publications
+
+<!-- Add the author lists as they appear in the papers (I left them out rather
+than guess). Full list on https://orcid.org/0000-0002-1966-1197 -->
+
+- (2023). *Natural variation in Avr3D1 from Zymoseptoria sp. contributes to
+  quantitative gene-for-gene resistance and to host specificity.*
+  **New Phytologist**.
+  [doi:10.1111/nph.18690](https://doi.org/10.1111/nph.18690)
+- (2020). *Chromatin dynamics contribute to the spatiotemporal expression
+  pattern of virulence genes in a fungal plant pathogen.* **mBio**.
+  [doi:10.1128/mBio.02343-20](https://doi.org/10.1128/mBio.02343-20)
+
+## Current projects
+
+- **Mycosanitation** — application of filamentous fungi in sanitation for
+  pathogen reduction and resource recovery (PhD, in progress)
+- ***Ascaris* egg viability assay & microscopy tool** — methods for assessing
+  treatment safety (in progress)

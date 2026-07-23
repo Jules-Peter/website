@@ -1,0 +1,42 @@
+---
+title: "Jules Peter"
+subtitle: "PhD Candidate · Global Health Engineering · ETH Zürich"
+toc: false
+about:
+  template: trestles
+  image: profile.jpg
+  image-shape: round
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:jupeter@ethz.ch
+    - text: ORCID
+      href: https://orcid.org/0000-0002-1966-1197
+    - icon: github
+      text: GitHub
+      href: https://github.com/Jules-Peter
+    - icon: mortarboard-fill
+      text: GHE profile
+      href: https://ghe.ethz.ch/about/people/person-detail.MjA3Nzg5.TGlzdC80MTI2LC0xNDYwMDMwNTU3.html
+---
+
+I hold a Master's degree in Microbiology from **ETH Zürich**, with a focus on
+mycology and biocontrol. Before my PhD I spent several years in agricultural
+research — most of it at **Agroscope**, the Swiss Federal Agricultural Research
+Station — working on optimising mycopesticide production and managing pests and
+plant pathogens in fruit and arable crops.
+
+Driven by a fascination with fungi and their ecological importance, I'm now
+pursuing a **PhD** in the **Global Health Engineering** group at ETH Zürich
+(Department of Mechanical and Process Engineering, D-MAVT), led by
+Prof. Elizabeth Tilley. My doctoral research explores how filamentous fungi can
+be harnessed for sustainable solutions to global health challenges — applying
+them in sanitation to reduce pathogens and transform waste into valuable
+resources, contributing to the emerging field of **mycosanitation**.
+
+Outside research, I grow fruit and vegetables, cultivate and forage mushrooms,
+and hike — deepening my understanding of biology and the natural world along the
+way.
+
+See my [research](research.qmd), [software & data](software.qmd), or
+[CV](cv.qmd).

@@ -1,0 +1,23 @@
+---
+title: "Software & Data"
+toc: true
+---
+
+<!-- Placeholder content — please review and edit. -->
+
+Tools, code, and datasets from my research. Everything lives on
+[GitHub](https://github.com/Jules-Peter).
+
+## Software
+
+**Ascaris egg tool** — microscopy-based tooling for counting and classifying
+*Ascaris* eggs.
+: <!-- link + one-line description -->
+
+## Data
+
+<!-- Add published datasets here, e.g.:
+- **Dataset name** — short description. [Zenodo](https://doi.org/XXXX)
+-->
+
+*Coming soon.*

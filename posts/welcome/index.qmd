@@ -1,0 +1,17 @@
+---
+title: "Welcome to my blog"
+description: "A first post — what this site is for and what I'll write about."
+date: "2026-07-23"
+categories: [news]
+---
+
+<!-- Placeholder post — edit or delete this once you write your own. -->
+
+Welcome! This is the first post on my new website.
+
+I plan to use this space to write occasionally about my research on
+mycosanitation — using filamentous fungi to reduce pathogens and turn waste into
+valuable resources — as well as notes on mycology, fieldwork, and reproducible
+science with R and Quarto.
+
+More soon.

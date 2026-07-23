@@ -1,0 +1,24 @@
+---
+title: "Media"
+toc: true
+---
+
+<!-- Placeholder content — please review and edit. -->
+
+Talks, interviews, press coverage, and public-facing work.
+
+## Talks & presentations
+
+<!-- Add talks here, e.g.:
+- **Talk title** — event, location, date. [slides](…) · [video](…)
+-->
+
+*Coming soon.*
+
+## Press & interviews
+
+<!-- Add press coverage here, e.g.:
+- *Outlet* (Year). "Headline." [link](…)
+-->
+
+*Coming soon.*
